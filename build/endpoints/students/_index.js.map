@@ -1,0 +1,1 @@
+{"version":3,"sources":["endpoints/students/_index.ts"],"names":[],"mappings":";;AAAA,6CAA6C;AAGpC,gCAAU;AAFnB,+CAA+C;AAE1B,kCAAW","file":"_index.js","sourcesContent":["import * as StudentGet from './students.get';\nimport * as StudentPost from './students.post';\n\nexport { StudentGet, StudentPost }"],"sourceRoot":"../../../src"}
